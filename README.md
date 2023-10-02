@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishita Malik</h1>
 <h3 align=">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4412543/screenshots/11086928/media/c23debeaf4452826b6883c90b771e5a8.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F11086928-Working-girl&psig=AOvVaw2DJfY1sQmdZHtLpxqtd99r&ust=1696366301326000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDWgImf2IEDFQAAAAAdAAAAABAo">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishita8839&label=Profile%20views&color=0e75b6&style=flat" alt="ishita8839" /> </p>
