@@ -31,4 +31,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats-ishaan2053.vercel.app/api?username=ishita8839&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true&align)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ishita8839&theme=transparent&card_width=400px&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ishita8839&theme=ayu-mirage&card_width=400px&hide_border=true&stroke=D6DD1A&fire=FFF92D&dates=DDDDDD)](https://git.io/streak-stats) 
