@@ -29,7 +29,6 @@
 [![Top Langs](https://github-readme-stats-ishaan2053.vercel.app/api/top-langs/?username=ishita8839&layout=compact&theme=transparent&hide_border=true&card_width=1000px&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishita8839&show_icons=true&locale=en" alt="ishita8839" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats-ishaan2053.vercel.app/api?username=ishita8839&theme=transparent&show_icons=true&hide_border=true&count_private=true&align)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishita8839&" alt="ishita8839" /></p>
