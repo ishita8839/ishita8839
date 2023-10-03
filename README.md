@@ -4,14 +4,12 @@
 <a href="https://instagram.com/_ishita__malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ishita__malik" height="30" width="40" /></a>
 </p>
 <p align="left">Hi, I'm <a href= "https://github.com/ishita8839" >Ishita Malik</a>, a third-year student at ABESIT. I am always on the lookout to learn new technologies and skills. A passionate engineering undergraduate with an unwavering attachment to technology, I am a skilled software engineer with my main area of expertise in MERN stack development. 🚀 from India.</p>
-<img align="right" alt="coding" width="500" height="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+<img align="right" alt="coding" width="500" height="350" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p align="left" padding= 0px ><strong> Talking about my personal Stuffs:</strong></p>
 
 - 🌱 I’m currently learning **Machine Learning**
-
 - 💬 Ask me about **React Js**
-
 - 📫 How to reach me **malikishita805@gmail.com**
 
 <p align="left"><strong>Languages and Tools:</strong></h3>
